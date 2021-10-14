@@ -4,17 +4,6 @@
 #include<time.h>
 #include<windows.h>
 
-//READ ME !!!!!
-/*
-	Jadi aku gak bisa bikin dia Dynamic, lainkali aku mau pelajari lagi cara bikin dia Dynamic
-	Passing Array 2 Dimensi secara Dynamic.
-	jadi, printmap, checker, dan begin nya di duplicate sesuai case. ini sangat memboros tempat dan line.
-	mesti belajar gimana cara passing array 2D secara dymanic. (passing by vector harusnya bisa)
-	
-	Sisanya Done BY MAGIC YAY
-	BELUM PRINT HALL OF FAME !!!! - Done by 05/01/20
-*/
-
 int turn = 0;
 
 void splash(){
